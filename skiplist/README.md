@@ -2,6 +2,14 @@
 
 基于论文[Skip Lists: A Probabilistic Alternative to Balanced Trees](https://epaperpress.com/sortsearch/download/skiplist.pdf)实现的一个跳表原型
 
+---
+
+#### 依赖
+
+Python >= 3.7
+
+---
+
 #### 使用方式
 
 ```python
@@ -40,6 +48,8 @@ In [10]:
 ```
 
 
+
+---
 
 #### 实现细节
 
